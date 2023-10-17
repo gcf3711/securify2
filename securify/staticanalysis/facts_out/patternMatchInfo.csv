@@ -1,0 +1,1429 @@
+LockedEtherPattern	3355	line	L22
+LockedEtherPattern	3355	element	C00
+LockedEtherPattern	3355	loc	750:1278:0
+LockedEtherPattern	3355	contract	Initializable
+LockedEtherPattern	3355	comment	No payable functions
+LockedEtherPattern	3358	line	L70
+LockedEtherPattern	3358	element	C01
+LockedEtherPattern	3358	loc	2030:825:0
+LockedEtherPattern	3358	contract	Ownable
+LockedEtherPattern	3358	comment	No payable functions
+LockedEtherPattern	3359	line	L107
+LockedEtherPattern	3359	element	C02
+LockedEtherPattern	3359	loc	2857:783:0
+LockedEtherPattern	3359	contract	Adminable
+LockedEtherPattern	3359	comment	No payable functions
+LockedEtherPattern	3360	line	L518
+LockedEtherPattern	3360	element	C03
+LockedEtherPattern	3360	loc	18666:1490:0
+LockedEtherPattern	3360	contract	RewardWallet
+LockedEtherPattern	3360	comment	Nonzero ether transfer
+DAOConstantGasPattern	2867	line	L533
+DAOConstantGasPattern	2867	element	T592
+DAOConstantGasPattern	2867	loc	19152:22:0
+DAOConstantGasPattern	2867	contract	RewardWallet
+DAOConstantGasPattern	2867	comment	Compliant in all contexts
+MissingInputValidationPattern	267	line	L85
+MissingInputValidationPattern	267	element	B118
+MissingInputValidationPattern	267	loc	2392:76:0
+MissingInputValidationPattern	267	contract	Ownable
+MissingInputValidationPattern	267	comment	SAFE
+MissingInputValidationPattern	269	line	L89
+MissingInputValidationPattern	269	element	B133
+MissingInputValidationPattern	269	loc	2474:98:0
+MissingInputValidationPattern	269	contract	Ownable
+MissingInputValidationPattern	269	comment	Argument 'A79' unchecked
+MissingInputValidationPattern	270	line	L94
+MissingInputValidationPattern	270	element	B148
+MissingInputValidationPattern	270	loc	2579:109:0
+MissingInputValidationPattern	270	contract	Ownable
+MissingInputValidationPattern	272	line	L98
+MissingInputValidationPattern	272	element	B155
+MissingInputValidationPattern	272	loc	2694:122:0
+MissingInputValidationPattern	272	contract	Ownable
+MissingInputValidationPattern	272	comment	SAFE
+MissingInputValidationPattern	302	line	L85
+MissingInputValidationPattern	302	element	B275
+MissingInputValidationPattern	302	loc	2392:76:0
+MissingInputValidationPattern	302	contract	Ownable
+MissingInputValidationPattern	302	comment	SAFE
+MissingInputValidationPattern	304	line	L89
+MissingInputValidationPattern	304	element	B290
+MissingInputValidationPattern	304	loc	2474:98:0
+MissingInputValidationPattern	304	contract	Ownable
+MissingInputValidationPattern	304	comment	Argument 'A171' unchecked
+MissingInputValidationPattern	305	line	L94
+MissingInputValidationPattern	305	element	B305
+MissingInputValidationPattern	305	loc	2579:109:0
+MissingInputValidationPattern	305	contract	Ownable
+MissingInputValidationPattern	307	line	L98
+MissingInputValidationPattern	307	element	B312
+MissingInputValidationPattern	307	loc	2694:122:0
+MissingInputValidationPattern	307	contract	Ownable
+MissingInputValidationPattern	307	comment	SAFE
+MissingInputValidationPattern	311	line	L121
+MissingInputValidationPattern	311	element	B318
+MissingInputValidationPattern	311	loc	3223:109:0
+MissingInputValidationPattern	311	contract	Adminable
+MissingInputValidationPattern	311	comment	SAFE
+MissingInputValidationPattern	312	line	L125
+MissingInputValidationPattern	312	element	B334
+MissingInputValidationPattern	312	loc	3338:141:0
+MissingInputValidationPattern	312	contract	Adminable
+MissingInputValidationPattern	312	comment	Argument 'A185' unchecked
+MissingInputValidationPattern	313	line	L130
+MissingInputValidationPattern	313	element	B350
+MissingInputValidationPattern	313	loc	3486:116:0
+MissingInputValidationPattern	313	contract	Adminable
+MissingInputValidationPattern	313	comment	Argument 'A192' unchecked
+MissingInputValidationPattern	313	comment	Argument 'A193' unchecked
+MissingInputValidationPattern	342	line	L85
+MissingInputValidationPattern	342	element	B474
+MissingInputValidationPattern	342	loc	2392:76:0
+MissingInputValidationPattern	342	contract	Ownable
+MissingInputValidationPattern	342	comment	SAFE
+MissingInputValidationPattern	343	line	L89
+MissingInputValidationPattern	343	element	B489
+MissingInputValidationPattern	343	loc	2474:98:0
+MissingInputValidationPattern	343	contract	Ownable
+MissingInputValidationPattern	343	comment	Argument 'A283' unchecked
+MissingInputValidationPattern	344	line	L94
+MissingInputValidationPattern	344	element	B504
+MissingInputValidationPattern	344	loc	2579:109:0
+MissingInputValidationPattern	344	contract	Ownable
+MissingInputValidationPattern	345	line	L98
+MissingInputValidationPattern	345	element	B511
+MissingInputValidationPattern	345	loc	2694:122:0
+MissingInputValidationPattern	345	contract	Ownable
+MissingInputValidationPattern	345	comment	SAFE
+MissingInputValidationPattern	348	line	L121
+MissingInputValidationPattern	348	element	B517
+MissingInputValidationPattern	348	loc	3223:109:0
+MissingInputValidationPattern	348	contract	Adminable
+MissingInputValidationPattern	348	comment	SAFE
+MissingInputValidationPattern	350	line	L125
+MissingInputValidationPattern	350	element	B533
+MissingInputValidationPattern	350	loc	3338:141:0
+MissingInputValidationPattern	350	contract	Adminable
+MissingInputValidationPattern	350	comment	Argument 'A297' unchecked
+MissingInputValidationPattern	351	line	L130
+MissingInputValidationPattern	351	element	B549
+MissingInputValidationPattern	351	loc	3486:116:0
+MissingInputValidationPattern	351	contract	Adminable
+MissingInputValidationPattern	351	comment	Argument 'A304' unchecked
+MissingInputValidationPattern	351	comment	Argument 'A305' unchecked
+MissingInputValidationPattern	353	line	L522
+MissingInputValidationPattern	353	element	B556
+MissingInputValidationPattern	353	loc	18761:111:0
+MissingInputValidationPattern	353	contract	RewardWallet
+MissingInputValidationPattern	353	comment	SAFE
+MissingInputValidationPattern	354	line	L526
+MissingInputValidationPattern	354	element	B572
+MissingInputValidationPattern	354	loc	18878:143:0
+MissingInputValidationPattern	354	contract	RewardWallet
+MissingInputValidationPattern	354	comment	Argument 'A317' unchecked
+MissingInputValidationPattern	355	line	L531
+MissingInputValidationPattern	355	element	B588
+MissingInputValidationPattern	355	loc	19028:240:0
+MissingInputValidationPattern	355	contract	RewardWallet
+MissingInputValidationPattern	355	comment	Argument 'A325' unchecked
+MissingInputValidationPattern	357	line	L539
+MissingInputValidationPattern	357	element	B602
+MissingInputValidationPattern	357	loc	19274:225:0
+MissingInputValidationPattern	357	contract	RewardWallet
+MissingInputValidationPattern	357	comment	SAFE
+MissingInputValidationPattern	359	line	L546
+MissingInputValidationPattern	359	element	B619
+MissingInputValidationPattern	359	loc	19506:255:0
+MissingInputValidationPattern	359	contract	RewardWallet
+MissingInputValidationPattern	359	comment	Argument 'A353' unchecked
+MissingInputValidationPattern	359	comment	Argument 'A354' unchecked
+MissingInputValidationPattern	359	comment	Argument 'A355' unchecked
+RepeatedCallPattern	2831	line	L354
+RepeatedCallPattern	2831	element	T28
+RepeatedCallPattern	2831	loc	11774:32:0
+RepeatedCallPattern	2831	contract	Address
+RepeatedCallPattern	2831	comment	
+RepeatedCallPattern	2832	line	L435
+RepeatedCallPattern	2832	element	T37
+RepeatedCallPattern	2832	loc	15949:25:0
+RepeatedCallPattern	2832	contract	SafeERC20
+RepeatedCallPattern	2832	comment	
+RepeatedCallPattern	2833	line	L401
+RepeatedCallPattern	2833	element	T49
+RepeatedCallPattern	2833	loc	13989:39:0
+RepeatedCallPattern	2833	contract	SafeERC20
+RepeatedCallPattern	2833	comment	
+RepeatedCallPattern	2834	line	L408
+RepeatedCallPattern	2834	element	T54
+RepeatedCallPattern	2834	loc	14345:39:0
+RepeatedCallPattern	2834	contract	SafeERC20
+RepeatedCallPattern	2834	comment	
+RepeatedCallPattern	2835	line	L413
+RepeatedCallPattern	2835	element	T58
+RepeatedCallPattern	2835	loc	14633:39:0
+RepeatedCallPattern	2835	contract	SafeERC20
+RepeatedCallPattern	2835	comment	
+RepeatedCallPattern	2836	line	L459
+RepeatedCallPattern	2836	element	T67
+RepeatedCallPattern	2836	loc	16849:14:0
+RepeatedCallPattern	2836	contract	UniversalERC20
+RepeatedCallPattern	2836	comment	
+RepeatedCallPattern	2837	line	L464
+RepeatedCallPattern	2837	element	T72
+RepeatedCallPattern	2837	loc	17008:16:0
+RepeatedCallPattern	2837	contract	UniversalERC20
+RepeatedCallPattern	2837	comment	
+RepeatedCallPattern	2838	line	L474
+RepeatedCallPattern	2838	element	T79
+RepeatedCallPattern	2838	loc	17319:33:0
+RepeatedCallPattern	2838	contract	UniversalERC20
+RepeatedCallPattern	2838	comment	
+RepeatedCallPattern	2839	line	L476
+RepeatedCallPattern	2839	element	T81
+RepeatedCallPattern	2839	loc	17391:37:0
+RepeatedCallPattern	2839	contract	UniversalERC20
+RepeatedCallPattern	2839	comment	
+RepeatedCallPattern	2840	line	L499
+RepeatedCallPattern	2840	element	T96
+RepeatedCallPattern	2840	loc	18141:37:0
+RepeatedCallPattern	2840	contract	UniversalERC20
+RepeatedCallPattern	2840	comment	
+RepeatedCallPattern	2841	line	L502
+RepeatedCallPattern	2841	element	T100
+RepeatedCallPattern	2841	loc	18248:51:0
+RepeatedCallPattern	2841	contract	UniversalERC20
+RepeatedCallPattern	2841	comment	
+RepeatedCallPattern	2842	line	L513
+RepeatedCallPattern	2842	element	T111
+RepeatedCallPattern	2842	loc	18625:20:0
+RepeatedCallPattern	2842	contract	UniversalERC20
+RepeatedCallPattern	2842	comment	
+RepeatedCallPattern	2843	line	L354
+RepeatedCallPattern	2843	element	T185
+RepeatedCallPattern	2843	loc	11774:32:0
+RepeatedCallPattern	2843	contract	Address
+RepeatedCallPattern	2843	comment	
+RepeatedCallPattern	2844	line	L435
+RepeatedCallPattern	2844	element	T194
+RepeatedCallPattern	2844	loc	15949:25:0
+RepeatedCallPattern	2844	contract	SafeERC20
+RepeatedCallPattern	2844	comment	
+RepeatedCallPattern	2845	line	L401
+RepeatedCallPattern	2845	element	T206
+RepeatedCallPattern	2845	loc	13989:39:0
+RepeatedCallPattern	2845	contract	SafeERC20
+RepeatedCallPattern	2845	comment	
+RepeatedCallPattern	2846	line	L408
+RepeatedCallPattern	2846	element	T211
+RepeatedCallPattern	2846	loc	14345:39:0
+RepeatedCallPattern	2846	contract	SafeERC20
+RepeatedCallPattern	2846	comment	
+RepeatedCallPattern	2847	line	L413
+RepeatedCallPattern	2847	element	T215
+RepeatedCallPattern	2847	loc	14633:39:0
+RepeatedCallPattern	2847	contract	SafeERC20
+RepeatedCallPattern	2847	comment	
+RepeatedCallPattern	2848	line	L459
+RepeatedCallPattern	2848	element	T224
+RepeatedCallPattern	2848	loc	16849:14:0
+RepeatedCallPattern	2848	contract	UniversalERC20
+RepeatedCallPattern	2848	comment	
+RepeatedCallPattern	2849	line	L464
+RepeatedCallPattern	2849	element	T229
+RepeatedCallPattern	2849	loc	17008:16:0
+RepeatedCallPattern	2849	contract	UniversalERC20
+RepeatedCallPattern	2849	comment	
+RepeatedCallPattern	2850	line	L474
+RepeatedCallPattern	2850	element	T236
+RepeatedCallPattern	2850	loc	17319:33:0
+RepeatedCallPattern	2850	contract	UniversalERC20
+RepeatedCallPattern	2850	comment	
+RepeatedCallPattern	2851	line	L476
+RepeatedCallPattern	2851	element	T238
+RepeatedCallPattern	2851	loc	17391:37:0
+RepeatedCallPattern	2851	contract	UniversalERC20
+RepeatedCallPattern	2851	comment	
+RepeatedCallPattern	2852	line	L499
+RepeatedCallPattern	2852	element	T253
+RepeatedCallPattern	2852	loc	18141:37:0
+RepeatedCallPattern	2852	contract	UniversalERC20
+RepeatedCallPattern	2852	comment	
+RepeatedCallPattern	2853	line	L502
+RepeatedCallPattern	2853	element	T257
+RepeatedCallPattern	2853	loc	18248:51:0
+RepeatedCallPattern	2853	contract	UniversalERC20
+RepeatedCallPattern	2853	comment	
+RepeatedCallPattern	2854	line	L513
+RepeatedCallPattern	2854	element	T268
+RepeatedCallPattern	2854	loc	18625:20:0
+RepeatedCallPattern	2854	contract	UniversalERC20
+RepeatedCallPattern	2854	comment	
+RepeatedCallPattern	2855	line	L354
+RepeatedCallPattern	2855	element	T384
+RepeatedCallPattern	2855	loc	11774:32:0
+RepeatedCallPattern	2855	contract	Address
+RepeatedCallPattern	2855	comment	
+RepeatedCallPattern	2856	line	L435
+RepeatedCallPattern	2856	element	T393
+RepeatedCallPattern	2856	loc	15949:25:0
+RepeatedCallPattern	2856	contract	SafeERC20
+RepeatedCallPattern	2856	comment	
+RepeatedCallPattern	2857	line	L401
+RepeatedCallPattern	2857	element	T405
+RepeatedCallPattern	2857	loc	13989:39:0
+RepeatedCallPattern	2857	contract	SafeERC20
+RepeatedCallPattern	2857	comment	
+RepeatedCallPattern	2858	line	L408
+RepeatedCallPattern	2858	element	T410
+RepeatedCallPattern	2858	loc	14345:39:0
+RepeatedCallPattern	2858	contract	SafeERC20
+RepeatedCallPattern	2858	comment	
+RepeatedCallPattern	2859	line	L413
+RepeatedCallPattern	2859	element	T414
+RepeatedCallPattern	2859	loc	14633:39:0
+RepeatedCallPattern	2859	contract	SafeERC20
+RepeatedCallPattern	2859	comment	
+RepeatedCallPattern	2860	line	L459
+RepeatedCallPattern	2860	element	T423
+RepeatedCallPattern	2860	loc	16849:14:0
+RepeatedCallPattern	2860	contract	UniversalERC20
+RepeatedCallPattern	2860	comment	
+RepeatedCallPattern	2861	line	L464
+RepeatedCallPattern	2861	element	T428
+RepeatedCallPattern	2861	loc	17008:16:0
+RepeatedCallPattern	2861	contract	UniversalERC20
+RepeatedCallPattern	2861	comment	
+RepeatedCallPattern	2862	line	L474
+RepeatedCallPattern	2862	element	T435
+RepeatedCallPattern	2862	loc	17319:33:0
+RepeatedCallPattern	2862	contract	UniversalERC20
+RepeatedCallPattern	2862	comment	
+RepeatedCallPattern	2863	line	L476
+RepeatedCallPattern	2863	element	T437
+RepeatedCallPattern	2863	loc	17391:37:0
+RepeatedCallPattern	2863	contract	UniversalERC20
+RepeatedCallPattern	2863	comment	
+RepeatedCallPattern	2864	line	L499
+RepeatedCallPattern	2864	element	T452
+RepeatedCallPattern	2864	loc	18141:37:0
+RepeatedCallPattern	2864	contract	UniversalERC20
+RepeatedCallPattern	2864	comment	
+RepeatedCallPattern	2865	line	L502
+RepeatedCallPattern	2865	element	T456
+RepeatedCallPattern	2865	loc	18248:51:0
+RepeatedCallPattern	2865	contract	UniversalERC20
+RepeatedCallPattern	2865	comment	
+RepeatedCallPattern	2866	line	L513
+RepeatedCallPattern	2866	element	T467
+RepeatedCallPattern	2866	loc	18625:20:0
+RepeatedCallPattern	2866	contract	UniversalERC20
+RepeatedCallPattern	2866	comment	
+RepeatedCallPattern	2867	line	L533
+RepeatedCallPattern	2867	element	T592
+RepeatedCallPattern	2867	loc	19152:22:0
+RepeatedCallPattern	2867	contract	RewardWallet
+RepeatedCallPattern	2867	comment	
+RepeatedCallPattern	2868	line	L513
+RepeatedCallPattern	2868	element	T613
+RepeatedCallPattern	2868	loc	18625:20:0
+RepeatedCallPattern	2868	contract	UniversalERC20
+RepeatedCallPattern	2868	comment	
+RepeatedCallPattern	2869	line	L354
+RepeatedCallPattern	2869	element	T659
+RepeatedCallPattern	2869	loc	11774:32:0
+RepeatedCallPattern	2869	contract	Address
+RepeatedCallPattern	2869	comment	
+RepeatedCallPattern	2870	line	L435
+RepeatedCallPattern	2870	element	T668
+RepeatedCallPattern	2870	loc	15949:25:0
+RepeatedCallPattern	2870	contract	SafeERC20
+RepeatedCallPattern	2870	comment	
+RepeatedCallPattern	2871	line	L401
+RepeatedCallPattern	2871	element	T680
+RepeatedCallPattern	2871	loc	13989:39:0
+RepeatedCallPattern	2871	contract	SafeERC20
+RepeatedCallPattern	2871	comment	
+RepeatedCallPattern	2872	line	L408
+RepeatedCallPattern	2872	element	T685
+RepeatedCallPattern	2872	loc	14345:39:0
+RepeatedCallPattern	2872	contract	SafeERC20
+RepeatedCallPattern	2872	comment	
+RepeatedCallPattern	2873	line	L413
+RepeatedCallPattern	2873	element	T689
+RepeatedCallPattern	2873	loc	14633:39:0
+RepeatedCallPattern	2873	contract	SafeERC20
+RepeatedCallPattern	2873	comment	
+RepeatedCallPattern	2874	line	L459
+RepeatedCallPattern	2874	element	T696
+RepeatedCallPattern	2874	loc	16849:14:0
+RepeatedCallPattern	2874	contract	UniversalERC20
+RepeatedCallPattern	2874	comment	
+RepeatedCallPattern	2875	line	L464
+RepeatedCallPattern	2875	element	T701
+RepeatedCallPattern	2875	loc	17008:16:0
+RepeatedCallPattern	2875	contract	UniversalERC20
+RepeatedCallPattern	2875	comment	
+RepeatedCallPattern	2876	line	L474
+RepeatedCallPattern	2876	element	T708
+RepeatedCallPattern	2876	loc	17319:33:0
+RepeatedCallPattern	2876	contract	UniversalERC20
+RepeatedCallPattern	2876	comment	
+RepeatedCallPattern	2877	line	L476
+RepeatedCallPattern	2877	element	T710
+RepeatedCallPattern	2877	loc	17391:37:0
+RepeatedCallPattern	2877	contract	UniversalERC20
+RepeatedCallPattern	2877	comment	
+RepeatedCallPattern	2878	line	L499
+RepeatedCallPattern	2878	element	T725
+RepeatedCallPattern	2878	loc	18141:37:0
+RepeatedCallPattern	2878	contract	UniversalERC20
+RepeatedCallPattern	2878	comment	
+RepeatedCallPattern	2879	line	L502
+RepeatedCallPattern	2879	element	T729
+RepeatedCallPattern	2879	loc	18248:51:0
+RepeatedCallPattern	2879	contract	UniversalERC20
+RepeatedCallPattern	2879	comment	
+TODAmountPattern	2867	line	L533
+TODAmountPattern	2867	element	T592
+TODAmountPattern	2867	loc	19152:22:0
+TODAmountPattern	2867	contract	RewardWallet
+TODReceiverPattern	2867	line	L533
+TODReceiverPattern	2867	element	T592
+TODReceiverPattern	2867	loc	19152:22:0
+TODReceiverPattern	2867	contract	RewardWallet
+TODReceiverPattern	2867	comment	
+TODTransferPattern	2867	line	L533
+TODTransferPattern	2867	element	T592
+TODTransferPattern	2867	loc	19152:22:0
+TODTransferPattern	2867	contract	RewardWallet
+TODTransferPattern	2867	comment	Compliant in all contexts
+UnhandledExceptionPattern	2868	line	L513
+UnhandledExceptionPattern	2868	element	T613
+UnhandledExceptionPattern	2868	loc	18625:20:0
+UnhandledExceptionPattern	2868	contract	UniversalERC20
+UnhandledExceptionPattern	2868	comment	
+UnrestrictedEtherFlowPattern	2867	line	L533
+UnrestrictedEtherFlowPattern	2867	element	T592
+UnrestrictedEtherFlowPattern	2867	loc	19152:22:0
+UnrestrictedEtherFlowPattern	2867	contract	RewardWallet
+UnrestrictedEtherFlowPattern	2867	comment	
+UnrestrictedEtherFlowPattern	2868	line	L513
+UnrestrictedEtherFlowPattern	2868	element	T613
+UnrestrictedEtherFlowPattern	2868	loc	18625:20:0
+UnrestrictedEtherFlowPattern	2868	contract	UniversalERC20
+UnrestrictedEtherFlowPattern	2868	comment	Compliant in all contexts
+UnrestrictedWritePattern	1661	line	L42
+UnrestrictedWritePattern	1661	element	S223
+UnrestrictedWritePattern	1661	loc	1291:19:0
+UnrestrictedWritePattern	1661	contract	Initializable
+UnrestrictedWritePattern	1661	comment	
+UnrestrictedWritePattern	1663	line	L43
+UnrestrictedWritePattern	1663	element	S225
+UnrestrictedWritePattern	1663	loc	1318:18:0
+UnrestrictedWritePattern	1663	contract	Initializable
+UnrestrictedWritePattern	1663	comment	
+UnrestrictedWritePattern	1666	line	L86
+UnrestrictedWritePattern	1666	element	S229
+UnrestrictedWritePattern	1666	loc	2443:18:0
+UnrestrictedWritePattern	1666	contract	Ownable
+UnrestrictedWritePattern	1666	comment	
+UnrestrictedWritePattern	1668	line	L49
+UnrestrictedWritePattern	1668	element	S232
+UnrestrictedWritePattern	1668	loc	1385:20:0
+UnrestrictedWritePattern	1668	contract	Initializable
+UnrestrictedWritePattern	1668	comment	
+UnrestrictedWritePattern	1679	line	L42
+UnrestrictedWritePattern	1679	element	S245
+UnrestrictedWritePattern	1679	loc	1291:19:0
+UnrestrictedWritePattern	1679	contract	Initializable
+UnrestrictedWritePattern	1679	comment	
+UnrestrictedWritePattern	1681	line	L43
+UnrestrictedWritePattern	1681	element	S247
+UnrestrictedWritePattern	1681	loc	1318:18:0
+UnrestrictedWritePattern	1681	contract	Initializable
+UnrestrictedWritePattern	1681	comment	
+UnrestrictedWritePattern	1682	line	L90
+UnrestrictedWritePattern	1682	element	S249
+UnrestrictedWritePattern	1682	loc	2549:16:0
+UnrestrictedWritePattern	1682	contract	Ownable
+UnrestrictedWritePattern	1682	comment	
+UnrestrictedWritePattern	1684	line	L49
+UnrestrictedWritePattern	1684	element	S252
+UnrestrictedWritePattern	1684	loc	1385:20:0
+UnrestrictedWritePattern	1684	contract	Initializable
+UnrestrictedWritePattern	1684	comment	
+UnrestrictedWritePattern	1685	line	L95
+UnrestrictedWritePattern	1685	element	S256
+UnrestrictedWritePattern	1685	loc	2653:28:0
+UnrestrictedWritePattern	1685	contract	Ownable
+UnrestrictedWritePattern	1685	comment	
+UnrestrictedWritePattern	1691	line	L100
+UnrestrictedWritePattern	1691	element	S264
+UnrestrictedWritePattern	1691	loc	2784:25:0
+UnrestrictedWritePattern	1691	contract	Ownable
+UnrestrictedWritePattern	1691	comment	Compliant in all contexts
+UnrestrictedWritePattern	1909	line	L42
+UnrestrictedWritePattern	1909	element	S486
+UnrestrictedWritePattern	1909	loc	1291:19:0
+UnrestrictedWritePattern	1909	contract	Initializable
+UnrestrictedWritePattern	1909	comment	
+UnrestrictedWritePattern	1911	line	L43
+UnrestrictedWritePattern	1911	element	S488
+UnrestrictedWritePattern	1911	loc	1318:18:0
+UnrestrictedWritePattern	1911	contract	Initializable
+UnrestrictedWritePattern	1911	comment	
+UnrestrictedWritePattern	1914	line	L86
+UnrestrictedWritePattern	1914	element	S492
+UnrestrictedWritePattern	1914	loc	2443:18:0
+UnrestrictedWritePattern	1914	contract	Ownable
+UnrestrictedWritePattern	1914	comment	
+UnrestrictedWritePattern	1916	line	L49
+UnrestrictedWritePattern	1916	element	S495
+UnrestrictedWritePattern	1916	loc	1385:20:0
+UnrestrictedWritePattern	1916	contract	Initializable
+UnrestrictedWritePattern	1916	comment	
+UnrestrictedWritePattern	1927	line	L42
+UnrestrictedWritePattern	1927	element	S508
+UnrestrictedWritePattern	1927	loc	1291:19:0
+UnrestrictedWritePattern	1927	contract	Initializable
+UnrestrictedWritePattern	1927	comment	
+UnrestrictedWritePattern	1929	line	L43
+UnrestrictedWritePattern	1929	element	S510
+UnrestrictedWritePattern	1929	loc	1318:18:0
+UnrestrictedWritePattern	1929	contract	Initializable
+UnrestrictedWritePattern	1929	comment	
+UnrestrictedWritePattern	1930	line	L90
+UnrestrictedWritePattern	1930	element	S512
+UnrestrictedWritePattern	1930	loc	2549:16:0
+UnrestrictedWritePattern	1930	contract	Ownable
+UnrestrictedWritePattern	1930	comment	
+UnrestrictedWritePattern	1932	line	L49
+UnrestrictedWritePattern	1932	element	S515
+UnrestrictedWritePattern	1932	loc	1385:20:0
+UnrestrictedWritePattern	1932	contract	Initializable
+UnrestrictedWritePattern	1932	comment	
+UnrestrictedWritePattern	1933	line	L95
+UnrestrictedWritePattern	1933	element	S519
+UnrestrictedWritePattern	1933	loc	2653:28:0
+UnrestrictedWritePattern	1933	contract	Ownable
+UnrestrictedWritePattern	1933	comment	
+UnrestrictedWritePattern	1939	line	L100
+UnrestrictedWritePattern	1939	element	S527
+UnrestrictedWritePattern	1939	loc	2784:25:0
+UnrestrictedWritePattern	1939	contract	Ownable
+UnrestrictedWritePattern	1939	comment	Compliant in all contexts
+UnrestrictedWritePattern	1960	line	L42
+UnrestrictedWritePattern	1960	element	S549
+UnrestrictedWritePattern	1960	loc	1291:19:0
+UnrestrictedWritePattern	1960	contract	Initializable
+UnrestrictedWritePattern	1960	comment	
+UnrestrictedWritePattern	1962	line	L43
+UnrestrictedWritePattern	1962	element	S551
+UnrestrictedWritePattern	1962	loc	1318:18:0
+UnrestrictedWritePattern	1962	contract	Initializable
+UnrestrictedWritePattern	1962	comment	
+UnrestrictedWritePattern	1964	line	L49
+UnrestrictedWritePattern	1964	element	S555
+UnrestrictedWritePattern	1964	loc	1385:20:0
+UnrestrictedWritePattern	1964	contract	Initializable
+UnrestrictedWritePattern	1964	comment	
+UnrestrictedWritePattern	1975	line	L42
+UnrestrictedWritePattern	1975	element	S568
+UnrestrictedWritePattern	1975	loc	1291:19:0
+UnrestrictedWritePattern	1975	contract	Initializable
+UnrestrictedWritePattern	1975	comment	
+UnrestrictedWritePattern	1977	line	L43
+UnrestrictedWritePattern	1977	element	S570
+UnrestrictedWritePattern	1977	loc	1318:18:0
+UnrestrictedWritePattern	1977	contract	Initializable
+UnrestrictedWritePattern	1977	comment	
+UnrestrictedWritePattern	1979	line	L49
+UnrestrictedWritePattern	1979	element	S574
+UnrestrictedWritePattern	1979	loc	1385:20:0
+UnrestrictedWritePattern	1979	contract	Initializable
+UnrestrictedWritePattern	1979	comment	
+UnrestrictedWritePattern	2203	line	L42
+UnrestrictedWritePattern	2203	element	S808
+UnrestrictedWritePattern	2203	loc	1291:19:0
+UnrestrictedWritePattern	2203	contract	Initializable
+UnrestrictedWritePattern	2203	comment	
+UnrestrictedWritePattern	2205	line	L43
+UnrestrictedWritePattern	2205	element	S810
+UnrestrictedWritePattern	2205	loc	1318:18:0
+UnrestrictedWritePattern	2205	contract	Initializable
+UnrestrictedWritePattern	2205	comment	
+UnrestrictedWritePattern	2208	line	L86
+UnrestrictedWritePattern	2208	element	S814
+UnrestrictedWritePattern	2208	loc	2443:18:0
+UnrestrictedWritePattern	2208	contract	Ownable
+UnrestrictedWritePattern	2208	comment	
+UnrestrictedWritePattern	2210	line	L49
+UnrestrictedWritePattern	2210	element	S817
+UnrestrictedWritePattern	2210	loc	1385:20:0
+UnrestrictedWritePattern	2210	contract	Initializable
+UnrestrictedWritePattern	2210	comment	
+UnrestrictedWritePattern	2221	line	L42
+UnrestrictedWritePattern	2221	element	S830
+UnrestrictedWritePattern	2221	loc	1291:19:0
+UnrestrictedWritePattern	2221	contract	Initializable
+UnrestrictedWritePattern	2221	comment	
+UnrestrictedWritePattern	2223	line	L43
+UnrestrictedWritePattern	2223	element	S832
+UnrestrictedWritePattern	2223	loc	1318:18:0
+UnrestrictedWritePattern	2223	contract	Initializable
+UnrestrictedWritePattern	2223	comment	
+UnrestrictedWritePattern	2224	line	L90
+UnrestrictedWritePattern	2224	element	S834
+UnrestrictedWritePattern	2224	loc	2549:16:0
+UnrestrictedWritePattern	2224	contract	Ownable
+UnrestrictedWritePattern	2224	comment	
+UnrestrictedWritePattern	2226	line	L49
+UnrestrictedWritePattern	2226	element	S837
+UnrestrictedWritePattern	2226	loc	1385:20:0
+UnrestrictedWritePattern	2226	contract	Initializable
+UnrestrictedWritePattern	2226	comment	
+UnrestrictedWritePattern	2227	line	L95
+UnrestrictedWritePattern	2227	element	S841
+UnrestrictedWritePattern	2227	loc	2653:28:0
+UnrestrictedWritePattern	2227	contract	Ownable
+UnrestrictedWritePattern	2227	comment	
+UnrestrictedWritePattern	2233	line	L100
+UnrestrictedWritePattern	2233	element	S849
+UnrestrictedWritePattern	2233	loc	2784:25:0
+UnrestrictedWritePattern	2233	contract	Ownable
+UnrestrictedWritePattern	2233	comment	Compliant in all contexts
+UnrestrictedWritePattern	2254	line	L42
+UnrestrictedWritePattern	2254	element	S871
+UnrestrictedWritePattern	2254	loc	1291:19:0
+UnrestrictedWritePattern	2254	contract	Initializable
+UnrestrictedWritePattern	2254	comment	
+UnrestrictedWritePattern	2256	line	L43
+UnrestrictedWritePattern	2256	element	S873
+UnrestrictedWritePattern	2256	loc	1318:18:0
+UnrestrictedWritePattern	2256	contract	Initializable
+UnrestrictedWritePattern	2256	comment	
+UnrestrictedWritePattern	2258	line	L49
+UnrestrictedWritePattern	2258	element	S877
+UnrestrictedWritePattern	2258	loc	1385:20:0
+UnrestrictedWritePattern	2258	contract	Initializable
+UnrestrictedWritePattern	2258	comment	
+UnrestrictedWritePattern	2269	line	L42
+UnrestrictedWritePattern	2269	element	S890
+UnrestrictedWritePattern	2269	loc	1291:19:0
+UnrestrictedWritePattern	2269	contract	Initializable
+UnrestrictedWritePattern	2269	comment	
+UnrestrictedWritePattern	2271	line	L43
+UnrestrictedWritePattern	2271	element	S892
+UnrestrictedWritePattern	2271	loc	1318:18:0
+UnrestrictedWritePattern	2271	contract	Initializable
+UnrestrictedWritePattern	2271	comment	
+UnrestrictedWritePattern	2273	line	L49
+UnrestrictedWritePattern	2273	element	S896
+UnrestrictedWritePattern	2273	loc	1385:20:0
+UnrestrictedWritePattern	2273	contract	Initializable
+UnrestrictedWritePattern	2273	comment	
+UnrestrictedWritePattern	2286	line	L42
+UnrestrictedWritePattern	2286	element	S915
+UnrestrictedWritePattern	2286	loc	1291:19:0
+UnrestrictedWritePattern	2286	contract	Initializable
+UnrestrictedWritePattern	2286	comment	
+UnrestrictedWritePattern	2288	line	L43
+UnrestrictedWritePattern	2288	element	S917
+UnrestrictedWritePattern	2288	loc	1318:18:0
+UnrestrictedWritePattern	2288	contract	Initializable
+UnrestrictedWritePattern	2288	comment	
+UnrestrictedWritePattern	2290	line	L49
+UnrestrictedWritePattern	2290	element	S921
+UnrestrictedWritePattern	2290	loc	1385:20:0
+UnrestrictedWritePattern	2290	contract	Initializable
+UnrestrictedWritePattern	2290	comment	
+UnrestrictedWritePattern	2301	line	L42
+UnrestrictedWritePattern	2301	element	S934
+UnrestrictedWritePattern	2301	loc	1291:19:0
+UnrestrictedWritePattern	2301	contract	Initializable
+UnrestrictedWritePattern	2301	comment	
+UnrestrictedWritePattern	2303	line	L43
+UnrestrictedWritePattern	2303	element	S936
+UnrestrictedWritePattern	2303	loc	1318:18:0
+UnrestrictedWritePattern	2303	contract	Initializable
+UnrestrictedWritePattern	2303	comment	
+UnrestrictedWritePattern	2305	line	L49
+UnrestrictedWritePattern	2305	element	S940
+UnrestrictedWritePattern	2305	loc	1385:20:0
+UnrestrictedWritePattern	2305	contract	Initializable
+UnrestrictedWritePattern	2305	comment	
+ShadowedStateVariablePattern	3454	line	L27
+ShadowedStateVariablePattern	3454	element	V00
+ShadowedStateVariablePattern	3454	loc	850:24:0
+ShadowedStateVariablePattern	3454	contract	Initializable
+ShadowedStateVariablePattern	3454	comment	Variable 'initialized' shadows inherited variable in 'Initializable'
+ShadowedStateVariablePattern	3457	line	L32
+ShadowedStateVariablePattern	3457	element	V01
+ShadowedStateVariablePattern	3457	loc	969:25:0
+ShadowedStateVariablePattern	3457	contract	Initializable
+ShadowedStateVariablePattern	3457	comment	Variable 'initializing' shadows inherited variable in 'Initializable'
+ShadowedStateVariablePattern	3460	line	L67
+ShadowedStateVariablePattern	3460	element	V02
+ShadowedStateVariablePattern	3460	loc	1996:29:0
+ShadowedStateVariablePattern	3460	contract	Initializable
+ShadowedStateVariablePattern	3460	comment	Variable '______gap' shadows inherited variable in 'Initializable'
+ShadowedStateVariablePattern	3531	line	L71
+ShadowedStateVariablePattern	3531	element	V08
+ShadowedStateVariablePattern	3531	loc	2070:28:0
+ShadowedStateVariablePattern	3531	contract	Ownable
+ShadowedStateVariablePattern	3531	comment	Variable 'owner' shadows inherited variable in 'Initializable'
+ShadowedStateVariablePattern	3534	line	L72
+ShadowedStateVariablePattern	3534	element	V09
+ShadowedStateVariablePattern	3534	loc	2104:42:0
+ShadowedStateVariablePattern	3534	contract	Ownable
+ShadowedStateVariablePattern	3534	comment	Variable 'newOwnerCandidate' shadows inherited variable in 'Initializable'
+ShadowedStateVariablePattern	3537	line	L104
+ShadowedStateVariablePattern	3537	element	V10
+ShadowedStateVariablePattern	3537	loc	2823:29:0
+ShadowedStateVariablePattern	3537	contract	Ownable
+ShadowedStateVariablePattern	3537	comment	Variable '______gap' shadows inherited variable in 'Initializable'
+ShadowedStateVariablePattern	3616	line	L108
+ShadowedStateVariablePattern	3616	element	V19
+ShadowedStateVariablePattern	3616	loc	2908:38:0
+ShadowedStateVariablePattern	3616	contract	Adminable
+ShadowedStateVariablePattern	3616	comment	Variable 'admins' shadows inherited variable in 'Initializable'
+ShadowedStateVariablePattern	3619	line	L134
+ShadowedStateVariablePattern	3619	element	V20
+ShadowedStateVariablePattern	3619	loc	3608:29:0
+ShadowedStateVariablePattern	3619	contract	Adminable
+ShadowedStateVariablePattern	3619	comment	Variable '______gap' shadows inherited variable in 'Initializable'
+UnusedStateVariablePattern	3454	line	L27
+UnusedStateVariablePattern	3454	element	V00
+UnusedStateVariablePattern	3454	loc	850:24:0
+UnusedStateVariablePattern	3454	contract	Initializable
+UnusedStateVariablePattern	3454	comment	State variable 'Initializable.initialized' in 'Initializable' is not used.
+UnusedStateVariablePattern	3457	line	L32
+UnusedStateVariablePattern	3457	element	V01
+UnusedStateVariablePattern	3457	loc	969:25:0
+UnusedStateVariablePattern	3457	contract	Initializable
+UnusedStateVariablePattern	3457	comment	State variable 'Initializable.initializing' in 'Initializable' is not used.
+UnusedStateVariablePattern	3460	line	L67
+UnusedStateVariablePattern	3460	element	V02
+UnusedStateVariablePattern	3460	loc	1996:29:0
+UnusedStateVariablePattern	3460	contract	Initializable
+UnusedStateVariablePattern	3460	comment	State variable 'Initializable.______gap' in 'Initializable' is not used.
+UnusedStateVariablePattern	3463	line	L450
+UnusedStateVariablePattern	3463	element	V03
+UnusedStateVariablePattern	3463	loc	16373:89:0
+UnusedStateVariablePattern	3463	contract	UniversalERC20
+UnusedStateVariablePattern	3463	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is not used.
+UnusedStateVariablePattern	3466	line	L451
+UnusedStateVariablePattern	3466	element	V04
+UnusedStateVariablePattern	3466	loc	16468:88:0
+UnusedStateVariablePattern	3466	contract	UniversalERC20
+UnusedStateVariablePattern	3466	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is not used.
+UnusedStateVariablePattern	3530	line	L67
+UnusedStateVariablePattern	3530	element	V07
+UnusedStateVariablePattern	3530	loc	1996:29:0
+UnusedStateVariablePattern	3530	contract	Initializable
+UnusedStateVariablePattern	3530	comment	State variable 'Initializable.______gap' in 'Initializable' is not used.
+UnusedStateVariablePattern	3537	line	L104
+UnusedStateVariablePattern	3537	element	V10
+UnusedStateVariablePattern	3537	loc	2823:29:0
+UnusedStateVariablePattern	3537	contract	Ownable
+UnusedStateVariablePattern	3537	comment	State variable 'Ownable.______gap' in 'Initializable' is not used.
+UnusedStateVariablePattern	3539	line	L450
+UnusedStateVariablePattern	3539	element	V11
+UnusedStateVariablePattern	3539	loc	16373:89:0
+UnusedStateVariablePattern	3539	contract	UniversalERC20
+UnusedStateVariablePattern	3539	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is not used.
+UnusedStateVariablePattern	3540	line	L451
+UnusedStateVariablePattern	3540	element	V12
+UnusedStateVariablePattern	3540	loc	16468:88:0
+UnusedStateVariablePattern	3540	contract	UniversalERC20
+UnusedStateVariablePattern	3540	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is not used.
+UnusedStateVariablePattern	3612	line	L67
+UnusedStateVariablePattern	3612	element	V15
+UnusedStateVariablePattern	3612	loc	1996:29:0
+UnusedStateVariablePattern	3612	contract	Initializable
+UnusedStateVariablePattern	3612	comment	State variable 'Initializable.______gap' in 'Initializable' is not used.
+UnusedStateVariablePattern	3615	line	L104
+UnusedStateVariablePattern	3615	element	V18
+UnusedStateVariablePattern	3615	loc	2823:29:0
+UnusedStateVariablePattern	3615	contract	Ownable
+UnusedStateVariablePattern	3615	comment	State variable 'Ownable.______gap' in 'Initializable' is not used.
+UnusedStateVariablePattern	3619	line	L134
+UnusedStateVariablePattern	3619	element	V20
+UnusedStateVariablePattern	3619	loc	3608:29:0
+UnusedStateVariablePattern	3619	contract	Adminable
+UnusedStateVariablePattern	3619	comment	State variable 'Adminable.______gap' in 'Initializable' is not used.
+UnusedStateVariablePattern	3621	line	L450
+UnusedStateVariablePattern	3621	element	V21
+UnusedStateVariablePattern	3621	loc	16373:89:0
+UnusedStateVariablePattern	3621	contract	UniversalERC20
+UnusedStateVariablePattern	3621	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is not used.
+UnusedStateVariablePattern	3622	line	L451
+UnusedStateVariablePattern	3622	element	V22
+UnusedStateVariablePattern	3622	loc	16468:88:0
+UnusedStateVariablePattern	3622	contract	UniversalERC20
+UnusedStateVariablePattern	3622	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is not used.
+UnusedStateVariablePattern	3706	line	L67
+UnusedStateVariablePattern	3706	element	V25
+UnusedStateVariablePattern	3706	loc	1996:29:0
+UnusedStateVariablePattern	3706	contract	Initializable
+UnusedStateVariablePattern	3706	comment	State variable 'Initializable.______gap' in 'Initializable' is not used.
+UnusedStateVariablePattern	3709	line	L104
+UnusedStateVariablePattern	3709	element	V28
+UnusedStateVariablePattern	3709	loc	2823:29:0
+UnusedStateVariablePattern	3709	contract	Ownable
+UnusedStateVariablePattern	3709	comment	State variable 'Ownable.______gap' in 'Initializable' is not used.
+UnusedStateVariablePattern	3711	line	L134
+UnusedStateVariablePattern	3711	element	V30
+UnusedStateVariablePattern	3711	loc	3608:29:0
+UnusedStateVariablePattern	3711	contract	Adminable
+UnusedStateVariablePattern	3711	comment	State variable 'Adminable.______gap' in 'Initializable' is not used.
+UninitializedStateVariablePattern	3454	line	L27
+UninitializedStateVariablePattern	3454	element	V00
+UninitializedStateVariablePattern	3454	loc	850:24:0
+UninitializedStateVariablePattern	3454	contract	Initializable
+UninitializedStateVariablePattern	3454	comment	State variable 'Initializable.initialized' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3457	line	L32
+UninitializedStateVariablePattern	3457	element	V01
+UninitializedStateVariablePattern	3457	loc	969:25:0
+UninitializedStateVariablePattern	3457	contract	Initializable
+UninitializedStateVariablePattern	3457	comment	State variable 'Initializable.initializing' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3460	line	L67
+UninitializedStateVariablePattern	3460	element	V02
+UninitializedStateVariablePattern	3460	loc	1996:29:0
+UninitializedStateVariablePattern	3460	contract	Initializable
+UninitializedStateVariablePattern	3460	comment	State variable 'Initializable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3463	line	L450
+UninitializedStateVariablePattern	3463	element	V03
+UninitializedStateVariablePattern	3463	loc	16373:89:0
+UninitializedStateVariablePattern	3463	contract	UniversalERC20
+UninitializedStateVariablePattern	3463	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is explicitly initialized.
+UninitializedStateVariablePattern	3463	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3466	line	L451
+UninitializedStateVariablePattern	3466	element	V04
+UninitializedStateVariablePattern	3466	loc	16468:88:0
+UninitializedStateVariablePattern	3466	contract	UniversalERC20
+UninitializedStateVariablePattern	3466	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is explicitly initialized.
+UninitializedStateVariablePattern	3466	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3528	line	L27
+UninitializedStateVariablePattern	3528	element	V05
+UninitializedStateVariablePattern	3528	loc	850:24:0
+UninitializedStateVariablePattern	3528	contract	Initializable
+UninitializedStateVariablePattern	3529	line	L32
+UninitializedStateVariablePattern	3529	element	V06
+UninitializedStateVariablePattern	3529	loc	969:25:0
+UninitializedStateVariablePattern	3529	contract	Initializable
+UninitializedStateVariablePattern	3530	line	L67
+UninitializedStateVariablePattern	3530	element	V07
+UninitializedStateVariablePattern	3530	loc	1996:29:0
+UninitializedStateVariablePattern	3530	contract	Initializable
+UninitializedStateVariablePattern	3530	comment	State variable 'Initializable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3531	line	L71
+UninitializedStateVariablePattern	3531	element	V08
+UninitializedStateVariablePattern	3531	loc	2070:28:0
+UninitializedStateVariablePattern	3531	contract	Ownable
+UninitializedStateVariablePattern	3534	line	L72
+UninitializedStateVariablePattern	3534	element	V09
+UninitializedStateVariablePattern	3534	loc	2104:42:0
+UninitializedStateVariablePattern	3534	contract	Ownable
+UninitializedStateVariablePattern	3537	line	L104
+UninitializedStateVariablePattern	3537	element	V10
+UninitializedStateVariablePattern	3537	loc	2823:29:0
+UninitializedStateVariablePattern	3537	contract	Ownable
+UninitializedStateVariablePattern	3537	comment	State variable 'Ownable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3539	line	L450
+UninitializedStateVariablePattern	3539	element	V11
+UninitializedStateVariablePattern	3539	loc	16373:89:0
+UninitializedStateVariablePattern	3539	contract	UniversalERC20
+UninitializedStateVariablePattern	3539	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is explicitly initialized.
+UninitializedStateVariablePattern	3539	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3540	line	L451
+UninitializedStateVariablePattern	3540	element	V12
+UninitializedStateVariablePattern	3540	loc	16468:88:0
+UninitializedStateVariablePattern	3540	contract	UniversalERC20
+UninitializedStateVariablePattern	3540	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is explicitly initialized.
+UninitializedStateVariablePattern	3540	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3610	line	L27
+UninitializedStateVariablePattern	3610	element	V13
+UninitializedStateVariablePattern	3610	loc	850:24:0
+UninitializedStateVariablePattern	3610	contract	Initializable
+UninitializedStateVariablePattern	3611	line	L32
+UninitializedStateVariablePattern	3611	element	V14
+UninitializedStateVariablePattern	3611	loc	969:25:0
+UninitializedStateVariablePattern	3611	contract	Initializable
+UninitializedStateVariablePattern	3612	line	L67
+UninitializedStateVariablePattern	3612	element	V15
+UninitializedStateVariablePattern	3612	loc	1996:29:0
+UninitializedStateVariablePattern	3612	contract	Initializable
+UninitializedStateVariablePattern	3612	comment	State variable 'Initializable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3613	line	L71
+UninitializedStateVariablePattern	3613	element	V16
+UninitializedStateVariablePattern	3613	loc	2070:28:0
+UninitializedStateVariablePattern	3613	contract	Ownable
+UninitializedStateVariablePattern	3614	line	L72
+UninitializedStateVariablePattern	3614	element	V17
+UninitializedStateVariablePattern	3614	loc	2104:42:0
+UninitializedStateVariablePattern	3614	contract	Ownable
+UninitializedStateVariablePattern	3615	line	L104
+UninitializedStateVariablePattern	3615	element	V18
+UninitializedStateVariablePattern	3615	loc	2823:29:0
+UninitializedStateVariablePattern	3615	contract	Ownable
+UninitializedStateVariablePattern	3615	comment	State variable 'Ownable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3619	line	L134
+UninitializedStateVariablePattern	3619	element	V20
+UninitializedStateVariablePattern	3619	loc	3608:29:0
+UninitializedStateVariablePattern	3619	contract	Adminable
+UninitializedStateVariablePattern	3619	comment	State variable 'Adminable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3621	line	L450
+UninitializedStateVariablePattern	3621	element	V21
+UninitializedStateVariablePattern	3621	loc	16373:89:0
+UninitializedStateVariablePattern	3621	contract	UniversalERC20
+UninitializedStateVariablePattern	3621	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is explicitly initialized.
+UninitializedStateVariablePattern	3621	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3622	line	L451
+UninitializedStateVariablePattern	3622	element	V22
+UninitializedStateVariablePattern	3622	loc	16468:88:0
+UninitializedStateVariablePattern	3622	contract	UniversalERC20
+UninitializedStateVariablePattern	3622	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is explicitly initialized.
+UninitializedStateVariablePattern	3622	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3704	line	L27
+UninitializedStateVariablePattern	3704	element	V23
+UninitializedStateVariablePattern	3704	loc	850:24:0
+UninitializedStateVariablePattern	3704	contract	Initializable
+UninitializedStateVariablePattern	3705	line	L32
+UninitializedStateVariablePattern	3705	element	V24
+UninitializedStateVariablePattern	3705	loc	969:25:0
+UninitializedStateVariablePattern	3705	contract	Initializable
+UninitializedStateVariablePattern	3706	line	L67
+UninitializedStateVariablePattern	3706	element	V25
+UninitializedStateVariablePattern	3706	loc	1996:29:0
+UninitializedStateVariablePattern	3706	contract	Initializable
+UninitializedStateVariablePattern	3706	comment	State variable 'Initializable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3707	line	L71
+UninitializedStateVariablePattern	3707	element	V26
+UninitializedStateVariablePattern	3707	loc	2070:28:0
+UninitializedStateVariablePattern	3707	contract	Ownable
+UninitializedStateVariablePattern	3708	line	L72
+UninitializedStateVariablePattern	3708	element	V27
+UninitializedStateVariablePattern	3708	loc	2104:42:0
+UninitializedStateVariablePattern	3708	contract	Ownable
+UninitializedStateVariablePattern	3709	line	L104
+UninitializedStateVariablePattern	3709	element	V28
+UninitializedStateVariablePattern	3709	loc	2823:29:0
+UninitializedStateVariablePattern	3709	contract	Ownable
+UninitializedStateVariablePattern	3709	comment	State variable 'Ownable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3711	line	L134
+UninitializedStateVariablePattern	3711	element	V30
+UninitializedStateVariablePattern	3711	loc	3608:29:0
+UninitializedStateVariablePattern	3711	contract	Adminable
+UninitializedStateVariablePattern	3711	comment	State variable 'Adminable.______gap' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3712	line	L450
+UninitializedStateVariablePattern	3712	element	V31
+UninitializedStateVariablePattern	3712	loc	16373:89:0
+UninitializedStateVariablePattern	3712	contract	UniversalERC20
+UninitializedStateVariablePattern	3712	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is explicitly initialized.
+UninitializedStateVariablePattern	3712	comment	State variable 'UniversalERC20.ZERO_ADDRESS' in 'Initializable' is not explicitly initialized.
+UninitializedStateVariablePattern	3713	line	L451
+UninitializedStateVariablePattern	3713	element	V32
+UninitializedStateVariablePattern	3713	loc	16468:88:0
+UninitializedStateVariablePattern	3713	contract	UniversalERC20
+UninitializedStateVariablePattern	3713	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is explicitly initialized.
+UninitializedStateVariablePattern	3713	comment	State variable 'UniversalERC20.ETH_ADDRESS' in 'Initializable' is not explicitly initialized.
+CallInLoopPattern	2867	line	L533
+CallInLoopPattern	2867	element	T592
+CallInLoopPattern	2867	loc	19152:22:0
+CallInLoopPattern	2867	contract	RewardWallet
+CallInLoopPattern	2868	line	L513
+CallInLoopPattern	2868	element	T613
+CallInLoopPattern	2868	loc	18625:20:0
+CallInLoopPattern	2868	contract	UniversalERC20
+LowLevelCallsPattern	2831	line	L354
+LowLevelCallsPattern	2831	element	T28
+LowLevelCallsPattern	2831	loc	11774:32:0
+LowLevelCallsPattern	2831	contract	Address
+LowLevelCallsPattern	2831	comment	
+LowLevelCallsPattern	2832	line	L435
+LowLevelCallsPattern	2832	element	T37
+LowLevelCallsPattern	2832	loc	15949:25:0
+LowLevelCallsPattern	2832	contract	SafeERC20
+LowLevelCallsPattern	2832	comment	
+LowLevelCallsPattern	2843	line	L354
+LowLevelCallsPattern	2843	element	T185
+LowLevelCallsPattern	2843	loc	11774:32:0
+LowLevelCallsPattern	2843	contract	Address
+LowLevelCallsPattern	2843	comment	
+LowLevelCallsPattern	2844	line	L435
+LowLevelCallsPattern	2844	element	T194
+LowLevelCallsPattern	2844	loc	15949:25:0
+LowLevelCallsPattern	2844	contract	SafeERC20
+LowLevelCallsPattern	2844	comment	
+LowLevelCallsPattern	2855	line	L354
+LowLevelCallsPattern	2855	element	T384
+LowLevelCallsPattern	2855	loc	11774:32:0
+LowLevelCallsPattern	2855	contract	Address
+LowLevelCallsPattern	2855	comment	
+LowLevelCallsPattern	2856	line	L435
+LowLevelCallsPattern	2856	element	T393
+LowLevelCallsPattern	2856	loc	15949:25:0
+LowLevelCallsPattern	2856	contract	SafeERC20
+LowLevelCallsPattern	2856	comment	
+LowLevelCallsPattern	2869	line	L354
+LowLevelCallsPattern	2869	element	T659
+LowLevelCallsPattern	2869	loc	11774:32:0
+LowLevelCallsPattern	2869	contract	Address
+LowLevelCallsPattern	2869	comment	
+LowLevelCallsPattern	2870	line	L435
+LowLevelCallsPattern	2870	element	T668
+LowLevelCallsPattern	2870	loc	15949:25:0
+LowLevelCallsPattern	2870	contract	SafeERC20
+LowLevelCallsPattern	2870	comment	
+UnusedReturnPattern	417	line	L354
+UnusedReturnPattern	417	element	A26
+UnusedReturnPattern	417	loc	11774:32:0
+UnusedReturnPattern	417	contract	Address
+UnusedReturnPattern	417	comment	
+UnusedReturnPattern	419	line	L354
+UnusedReturnPattern	419	element	A27
+UnusedReturnPattern	419	loc	11774:32:0
+UnusedReturnPattern	419	contract	Address
+UnusedReturnPattern	419	comment	
+UnusedReturnPattern	425	line	L432
+UnusedReturnPattern	425	element	A33
+UnusedReturnPattern	425	loc	15774:27:0
+UnusedReturnPattern	425	contract	SafeERC20
+UnusedReturnPattern	425	comment	
+UnusedReturnPattern	427	line	L435
+UnusedReturnPattern	427	element	A34
+UnusedReturnPattern	427	loc	15949:25:0
+UnusedReturnPattern	427	contract	SafeERC20
+UnusedReturnPattern	427	comment	
+UnusedReturnPattern	429	line	L435
+UnusedReturnPattern	429	element	A35
+UnusedReturnPattern	429	loc	15949:25:0
+UnusedReturnPattern	429	contract	SafeERC20
+UnusedReturnPattern	429	comment	
+UnusedReturnPattern	437	line	L401
+UnusedReturnPattern	437	element	A43
+UnusedReturnPattern	437	loc	13989:39:0
+UnusedReturnPattern	437	contract	SafeERC20
+UnusedReturnPattern	437	comment	
+UnusedReturnPattern	442	line	L408
+UnusedReturnPattern	442	element	A47
+UnusedReturnPattern	442	loc	14345:39:0
+UnusedReturnPattern	442	contract	SafeERC20
+UnusedReturnPattern	442	comment	
+UnusedReturnPattern	449	line	L413
+UnusedReturnPattern	449	element	A52
+UnusedReturnPattern	449	loc	14633:39:0
+UnusedReturnPattern	449	contract	SafeERC20
+UnusedReturnPattern	449	comment	
+UnusedReturnPattern	459	line	L459
+UnusedReturnPattern	459	element	A59
+UnusedReturnPattern	459	loc	16849:14:0
+UnusedReturnPattern	459	contract	UniversalERC20
+UnusedReturnPattern	459	comment	
+UnusedReturnPattern	462	line	L464
+UnusedReturnPattern	462	element	A61
+UnusedReturnPattern	462	loc	17008:16:0
+UnusedReturnPattern	462	contract	UniversalERC20
+UnusedReturnPattern	462	comment	
+UnusedReturnPattern	468	line	L474
+UnusedReturnPattern	468	element	A66
+UnusedReturnPattern	468	loc	17319:33:0
+UnusedReturnPattern	468	contract	UniversalERC20
+UnusedReturnPattern	468	comment	
+UnusedReturnPattern	481	line	L513
+UnusedReturnPattern	481	element	A77
+UnusedReturnPattern	481	loc	18625:20:0
+UnusedReturnPattern	481	contract	UniversalERC20
+UnusedReturnPattern	481	comment	
+UnusedReturnPattern	483	line	L38
+UnusedReturnPattern	483	element	A78
+UnusedReturnPattern	483	loc	1133:15:0
+UnusedReturnPattern	483	contract	Initializable
+UnusedReturnPattern	483	comment	
+UnusedReturnPattern	488	line	L38
+UnusedReturnPattern	488	element	A81
+UnusedReturnPattern	488	loc	1133:15:0
+UnusedReturnPattern	488	contract	Initializable
+UnusedReturnPattern	488	comment	
+UnusedReturnPattern	538	line	L354
+UnusedReturnPattern	538	element	A118
+UnusedReturnPattern	538	loc	11774:32:0
+UnusedReturnPattern	538	contract	Address
+UnusedReturnPattern	538	comment	
+UnusedReturnPattern	540	line	L354
+UnusedReturnPattern	540	element	A119
+UnusedReturnPattern	540	loc	11774:32:0
+UnusedReturnPattern	540	contract	Address
+UnusedReturnPattern	540	comment	
+UnusedReturnPattern	546	line	L432
+UnusedReturnPattern	546	element	A125
+UnusedReturnPattern	546	loc	15774:27:0
+UnusedReturnPattern	546	contract	SafeERC20
+UnusedReturnPattern	546	comment	
+UnusedReturnPattern	548	line	L435
+UnusedReturnPattern	548	element	A126
+UnusedReturnPattern	548	loc	15949:25:0
+UnusedReturnPattern	548	contract	SafeERC20
+UnusedReturnPattern	548	comment	
+UnusedReturnPattern	550	line	L435
+UnusedReturnPattern	550	element	A127
+UnusedReturnPattern	550	loc	15949:25:0
+UnusedReturnPattern	550	contract	SafeERC20
+UnusedReturnPattern	550	comment	
+UnusedReturnPattern	558	line	L401
+UnusedReturnPattern	558	element	A135
+UnusedReturnPattern	558	loc	13989:39:0
+UnusedReturnPattern	558	contract	SafeERC20
+UnusedReturnPattern	558	comment	
+UnusedReturnPattern	563	line	L408
+UnusedReturnPattern	563	element	A139
+UnusedReturnPattern	563	loc	14345:39:0
+UnusedReturnPattern	563	contract	SafeERC20
+UnusedReturnPattern	563	comment	
+UnusedReturnPattern	570	line	L413
+UnusedReturnPattern	570	element	A144
+UnusedReturnPattern	570	loc	14633:39:0
+UnusedReturnPattern	570	contract	SafeERC20
+UnusedReturnPattern	570	comment	
+UnusedReturnPattern	580	line	L459
+UnusedReturnPattern	580	element	A151
+UnusedReturnPattern	580	loc	16849:14:0
+UnusedReturnPattern	580	contract	UniversalERC20
+UnusedReturnPattern	580	comment	
+UnusedReturnPattern	583	line	L464
+UnusedReturnPattern	583	element	A153
+UnusedReturnPattern	583	loc	17008:16:0
+UnusedReturnPattern	583	contract	UniversalERC20
+UnusedReturnPattern	583	comment	
+UnusedReturnPattern	589	line	L474
+UnusedReturnPattern	589	element	A158
+UnusedReturnPattern	589	loc	17319:33:0
+UnusedReturnPattern	589	contract	UniversalERC20
+UnusedReturnPattern	589	comment	
+UnusedReturnPattern	602	line	L513
+UnusedReturnPattern	602	element	A169
+UnusedReturnPattern	602	loc	18625:20:0
+UnusedReturnPattern	602	contract	UniversalERC20
+UnusedReturnPattern	602	comment	
+UnusedReturnPattern	604	line	L38
+UnusedReturnPattern	604	element	A170
+UnusedReturnPattern	604	loc	1133:15:0
+UnusedReturnPattern	604	contract	Initializable
+UnusedReturnPattern	604	comment	
+UnusedReturnPattern	609	line	L38
+UnusedReturnPattern	609	element	A173
+UnusedReturnPattern	609	loc	1133:15:0
+UnusedReturnPattern	609	contract	Initializable
+UnusedReturnPattern	609	comment	
+UnusedReturnPattern	630	line	L38
+UnusedReturnPattern	630	element	A184
+UnusedReturnPattern	630	loc	1133:15:0
+UnusedReturnPattern	630	contract	Initializable
+UnusedReturnPattern	630	comment	
+UnusedReturnPattern	635	line	L38
+UnusedReturnPattern	635	element	A187
+UnusedReturnPattern	635	loc	1133:15:0
+UnusedReturnPattern	635	contract	Initializable
+UnusedReturnPattern	635	comment	
+UnusedReturnPattern	691	line	L354
+UnusedReturnPattern	691	element	A230
+UnusedReturnPattern	691	loc	11774:32:0
+UnusedReturnPattern	691	contract	Address
+UnusedReturnPattern	691	comment	
+UnusedReturnPattern	693	line	L354
+UnusedReturnPattern	693	element	A231
+UnusedReturnPattern	693	loc	11774:32:0
+UnusedReturnPattern	693	contract	Address
+UnusedReturnPattern	693	comment	
+UnusedReturnPattern	699	line	L432
+UnusedReturnPattern	699	element	A237
+UnusedReturnPattern	699	loc	15774:27:0
+UnusedReturnPattern	699	contract	SafeERC20
+UnusedReturnPattern	699	comment	
+UnusedReturnPattern	701	line	L435
+UnusedReturnPattern	701	element	A238
+UnusedReturnPattern	701	loc	15949:25:0
+UnusedReturnPattern	701	contract	SafeERC20
+UnusedReturnPattern	701	comment	
+UnusedReturnPattern	703	line	L435
+UnusedReturnPattern	703	element	A239
+UnusedReturnPattern	703	loc	15949:25:0
+UnusedReturnPattern	703	contract	SafeERC20
+UnusedReturnPattern	703	comment	
+UnusedReturnPattern	711	line	L401
+UnusedReturnPattern	711	element	A247
+UnusedReturnPattern	711	loc	13989:39:0
+UnusedReturnPattern	711	contract	SafeERC20
+UnusedReturnPattern	711	comment	
+UnusedReturnPattern	716	line	L408
+UnusedReturnPattern	716	element	A251
+UnusedReturnPattern	716	loc	14345:39:0
+UnusedReturnPattern	716	contract	SafeERC20
+UnusedReturnPattern	716	comment	
+UnusedReturnPattern	723	line	L413
+UnusedReturnPattern	723	element	A256
+UnusedReturnPattern	723	loc	14633:39:0
+UnusedReturnPattern	723	contract	SafeERC20
+UnusedReturnPattern	723	comment	
+UnusedReturnPattern	733	line	L459
+UnusedReturnPattern	733	element	A263
+UnusedReturnPattern	733	loc	16849:14:0
+UnusedReturnPattern	733	contract	UniversalERC20
+UnusedReturnPattern	733	comment	
+UnusedReturnPattern	736	line	L464
+UnusedReturnPattern	736	element	A265
+UnusedReturnPattern	736	loc	17008:16:0
+UnusedReturnPattern	736	contract	UniversalERC20
+UnusedReturnPattern	736	comment	
+UnusedReturnPattern	742	line	L474
+UnusedReturnPattern	742	element	A270
+UnusedReturnPattern	742	loc	17319:33:0
+UnusedReturnPattern	742	contract	UniversalERC20
+UnusedReturnPattern	742	comment	
+UnusedReturnPattern	755	line	L513
+UnusedReturnPattern	755	element	A281
+UnusedReturnPattern	755	loc	18625:20:0
+UnusedReturnPattern	755	contract	UniversalERC20
+UnusedReturnPattern	755	comment	
+UnusedReturnPattern	757	line	L38
+UnusedReturnPattern	757	element	A282
+UnusedReturnPattern	757	loc	1133:15:0
+UnusedReturnPattern	757	contract	Initializable
+UnusedReturnPattern	757	comment	
+UnusedReturnPattern	762	line	L38
+UnusedReturnPattern	762	element	A285
+UnusedReturnPattern	762	loc	1133:15:0
+UnusedReturnPattern	762	contract	Initializable
+UnusedReturnPattern	762	comment	
+UnusedReturnPattern	783	line	L38
+UnusedReturnPattern	783	element	A296
+UnusedReturnPattern	783	loc	1133:15:0
+UnusedReturnPattern	783	contract	Initializable
+UnusedReturnPattern	783	comment	
+UnusedReturnPattern	788	line	L38
+UnusedReturnPattern	788	element	A299
+UnusedReturnPattern	788	loc	1133:15:0
+UnusedReturnPattern	788	contract	Initializable
+UnusedReturnPattern	788	comment	
+UnusedReturnPattern	815	line	L38
+UnusedReturnPattern	815	element	A316
+UnusedReturnPattern	815	loc	1133:15:0
+UnusedReturnPattern	815	contract	Initializable
+UnusedReturnPattern	815	comment	
+UnusedReturnPattern	820	line	L38
+UnusedReturnPattern	820	element	A319
+UnusedReturnPattern	820	loc	1133:15:0
+UnusedReturnPattern	820	contract	Initializable
+UnusedReturnPattern	820	comment	
+UnusedReturnPattern	865	line	L513
+UnusedReturnPattern	865	element	A348
+UnusedReturnPattern	865	loc	18625:20:0
+UnusedReturnPattern	865	contract	UniversalERC20
+UnusedReturnPattern	865	comment	
+UnusedReturnPattern	936	line	L354
+UnusedReturnPattern	936	element	A403
+UnusedReturnPattern	936	loc	11774:32:0
+UnusedReturnPattern	936	contract	Address
+UnusedReturnPattern	936	comment	
+UnusedReturnPattern	938	line	L354
+UnusedReturnPattern	938	element	A404
+UnusedReturnPattern	938	loc	11774:32:0
+UnusedReturnPattern	938	contract	Address
+UnusedReturnPattern	938	comment	
+UnusedReturnPattern	944	line	L432
+UnusedReturnPattern	944	element	A410
+UnusedReturnPattern	944	loc	15774:27:0
+UnusedReturnPattern	944	contract	SafeERC20
+UnusedReturnPattern	944	comment	
+UnusedReturnPattern	946	line	L435
+UnusedReturnPattern	946	element	A411
+UnusedReturnPattern	946	loc	15949:25:0
+UnusedReturnPattern	946	contract	SafeERC20
+UnusedReturnPattern	946	comment	
+UnusedReturnPattern	948	line	L435
+UnusedReturnPattern	948	element	A412
+UnusedReturnPattern	948	loc	15949:25:0
+UnusedReturnPattern	948	contract	SafeERC20
+UnusedReturnPattern	948	comment	
+UnusedReturnPattern	956	line	L401
+UnusedReturnPattern	956	element	A420
+UnusedReturnPattern	956	loc	13989:39:0
+UnusedReturnPattern	956	contract	SafeERC20
+UnusedReturnPattern	956	comment	
+UnusedReturnPattern	961	line	L408
+UnusedReturnPattern	961	element	A424
+UnusedReturnPattern	961	loc	14345:39:0
+UnusedReturnPattern	961	contract	SafeERC20
+UnusedReturnPattern	961	comment	
+UnusedReturnPattern	968	line	L413
+UnusedReturnPattern	968	element	A429
+UnusedReturnPattern	968	loc	14633:39:0
+UnusedReturnPattern	968	contract	SafeERC20
+UnusedReturnPattern	968	comment	
+UnusedReturnPattern	973	line	L459
+UnusedReturnPattern	973	element	A432
+UnusedReturnPattern	973	loc	16849:14:0
+UnusedReturnPattern	973	contract	UniversalERC20
+UnusedReturnPattern	973	comment	
+UnusedReturnPattern	976	line	L464
+UnusedReturnPattern	976	element	A434
+UnusedReturnPattern	976	loc	17008:16:0
+UnusedReturnPattern	976	contract	UniversalERC20
+UnusedReturnPattern	976	comment	
+UnusedReturnPattern	982	line	L474
+UnusedReturnPattern	982	element	A439
+UnusedReturnPattern	982	loc	17319:33:0
+UnusedReturnPattern	982	contract	UniversalERC20
+UnusedReturnPattern	982	comment	
+ConstableStatesPattern	3454	line	L27
+ConstableStatesPattern	3454	element	V00
+ConstableStatesPattern	3454	loc	850:24:0
+ConstableStatesPattern	3454	contract	Initializable
+ConstableStatesPattern	3454	comment	State variable 'Initializable.initialized' in 'Initializable' is changed by the contract.
+ConstableStatesPattern	3457	line	L32
+ConstableStatesPattern	3457	element	V01
+ConstableStatesPattern	3457	loc	969:25:0
+ConstableStatesPattern	3457	contract	Initializable
+ConstableStatesPattern	3457	comment	State variable 'Initializable.initializing' in 'Initializable' is changed by the contract.
+ConstableStatesPattern	3460	line	L67
+ConstableStatesPattern	3460	element	V02
+ConstableStatesPattern	3460	loc	1996:29:0
+ConstableStatesPattern	3460	contract	Initializable
+ConstableStatesPattern	3460	comment	State variable 'Initializable.______gap' in 'Initializable' should be declared as constant.
+ConstableStatesPattern	3531	line	L71
+ConstableStatesPattern	3531	element	V08
+ConstableStatesPattern	3531	loc	2070:28:0
+ConstableStatesPattern	3531	contract	Ownable
+ConstableStatesPattern	3531	comment	State variable 'Ownable.owner' in 'Initializable' is changed by the contract.
+ConstableStatesPattern	3534	line	L72
+ConstableStatesPattern	3534	element	V09
+ConstableStatesPattern	3534	loc	2104:42:0
+ConstableStatesPattern	3534	contract	Ownable
+ConstableStatesPattern	3534	comment	State variable 'Ownable.newOwnerCandidate' in 'Initializable' is changed by the contract.
+ConstableStatesPattern	3537	line	L104
+ConstableStatesPattern	3537	element	V10
+ConstableStatesPattern	3537	loc	2823:29:0
+ConstableStatesPattern	3537	contract	Ownable
+ConstableStatesPattern	3537	comment	State variable 'Ownable.______gap' in 'Initializable' should be declared as constant.
+ConstableStatesPattern	3619	line	L134
+ConstableStatesPattern	3619	element	V20
+ConstableStatesPattern	3619	loc	3608:29:0
+ConstableStatesPattern	3619	contract	Adminable
+ConstableStatesPattern	3619	comment	State variable 'Adminable.______gap' in 'Initializable' should be declared as constant.
+ExternalFunctionPattern	267	line	L85
+ExternalFunctionPattern	267	element	B118
+ExternalFunctionPattern	267	loc	2392:76:0
+ExternalFunctionPattern	267	contract	Ownable
+ExternalFunctionPattern	267	comment	Function initialize should be set external.
+ExternalFunctionPattern	269	line	L89
+ExternalFunctionPattern	269	element	B133
+ExternalFunctionPattern	269	loc	2474:98:0
+ExternalFunctionPattern	269	contract	Ownable
+ExternalFunctionPattern	269	comment	Function initialize should be set external.
+ExternalFunctionPattern	270	line	L94
+ExternalFunctionPattern	270	element	B148
+ExternalFunctionPattern	270	loc	2579:109:0
+ExternalFunctionPattern	270	contract	Ownable
+ExternalFunctionPattern	270	comment	Function changeOwner should be set external.
+ExternalFunctionPattern	272	line	L98
+ExternalFunctionPattern	272	element	B155
+ExternalFunctionPattern	272	loc	2694:122:0
+ExternalFunctionPattern	272	contract	Ownable
+ExternalFunctionPattern	272	comment	Function acceptOwner should be set external.
+ExternalFunctionPattern	302	line	L85
+ExternalFunctionPattern	302	element	B275
+ExternalFunctionPattern	302	loc	2392:76:0
+ExternalFunctionPattern	302	contract	Ownable
+ExternalFunctionPattern	302	comment	
+ExternalFunctionPattern	304	line	L89
+ExternalFunctionPattern	304	element	B290
+ExternalFunctionPattern	304	loc	2474:98:0
+ExternalFunctionPattern	304	contract	Ownable
+ExternalFunctionPattern	304	comment	Function Ownable.initialize should be set external.
+ExternalFunctionPattern	305	line	L94
+ExternalFunctionPattern	305	element	B305
+ExternalFunctionPattern	305	loc	2579:109:0
+ExternalFunctionPattern	305	contract	Ownable
+ExternalFunctionPattern	305	comment	Function Ownable.changeOwner should be set external.
+ExternalFunctionPattern	307	line	L98
+ExternalFunctionPattern	307	element	B312
+ExternalFunctionPattern	307	loc	2694:122:0
+ExternalFunctionPattern	307	contract	Ownable
+ExternalFunctionPattern	307	comment	Function Ownable.acceptOwner should be set external.
+ExternalFunctionPattern	311	line	L121
+ExternalFunctionPattern	311	element	B318
+ExternalFunctionPattern	311	loc	3223:109:0
+ExternalFunctionPattern	311	contract	Adminable
+ExternalFunctionPattern	311	comment	Function initialize should be set external.
+ExternalFunctionPattern	312	line	L125
+ExternalFunctionPattern	312	element	B334
+ExternalFunctionPattern	312	loc	3338:141:0
+ExternalFunctionPattern	312	contract	Adminable
+ExternalFunctionPattern	312	comment	Function initialize should be set external.
+ExternalFunctionPattern	313	line	L130
+ExternalFunctionPattern	313	element	B350
+ExternalFunctionPattern	313	loc	3486:116:0
+ExternalFunctionPattern	313	contract	Adminable
+ExternalFunctionPattern	313	comment	Function setAdminPermission should be set external.
+ExternalFunctionPattern	342	line	L85
+ExternalFunctionPattern	342	element	B474
+ExternalFunctionPattern	342	loc	2392:76:0
+ExternalFunctionPattern	342	contract	Ownable
+ExternalFunctionPattern	342	comment	
+ExternalFunctionPattern	343	line	L89
+ExternalFunctionPattern	343	element	B489
+ExternalFunctionPattern	343	loc	2474:98:0
+ExternalFunctionPattern	343	contract	Ownable
+ExternalFunctionPattern	343	comment	Function Ownable.initialize should be set external.
+ExternalFunctionPattern	344	line	L94
+ExternalFunctionPattern	344	element	B504
+ExternalFunctionPattern	344	loc	2579:109:0
+ExternalFunctionPattern	344	contract	Ownable
+ExternalFunctionPattern	344	comment	Function Ownable.changeOwner should be set external.
+ExternalFunctionPattern	345	line	L98
+ExternalFunctionPattern	345	element	B511
+ExternalFunctionPattern	345	loc	2694:122:0
+ExternalFunctionPattern	345	contract	Ownable
+ExternalFunctionPattern	345	comment	Function Ownable.acceptOwner should be set external.
+ExternalFunctionPattern	348	line	L121
+ExternalFunctionPattern	348	element	B517
+ExternalFunctionPattern	348	loc	3223:109:0
+ExternalFunctionPattern	348	contract	Adminable
+ExternalFunctionPattern	348	comment	Function Adminable.initialize should be set external.
+ExternalFunctionPattern	350	line	L125
+ExternalFunctionPattern	350	element	B533
+ExternalFunctionPattern	350	loc	3338:141:0
+ExternalFunctionPattern	350	contract	Adminable
+ExternalFunctionPattern	350	comment	Function Adminable.initialize should be set external.
+ExternalFunctionPattern	351	line	L130
+ExternalFunctionPattern	351	element	B549
+ExternalFunctionPattern	351	loc	3486:116:0
+ExternalFunctionPattern	351	contract	Adminable
+ExternalFunctionPattern	351	comment	Function Adminable.setAdminPermission should be set external.
+ExternalFunctionPattern	353	line	L522
+ExternalFunctionPattern	353	element	B556
+ExternalFunctionPattern	353	loc	18761:111:0
+ExternalFunctionPattern	353	contract	RewardWallet
+ExternalFunctionPattern	353	comment	Function initialize should be set external.
+ExternalFunctionPattern	354	line	L526
+ExternalFunctionPattern	354	element	B572
+ExternalFunctionPattern	354	loc	18878:143:0
+ExternalFunctionPattern	354	contract	RewardWallet
+ExternalFunctionPattern	354	comment	Function initialize should be set external.
+ExternalFunctionPattern	355	line	L531
+ExternalFunctionPattern	355	element	B588
+ExternalFunctionPattern	355	loc	19028:240:0
+ExternalFunctionPattern	355	contract	RewardWallet
+ExternalFunctionPattern	355	comment	
+ExternalFunctionPattern	357	line	L539
+ExternalFunctionPattern	357	element	B602
+ExternalFunctionPattern	357	loc	19274:225:0
+ExternalFunctionPattern	357	contract	RewardWallet
+ExternalFunctionPattern	357	comment	Function withdrawAll should be set external.
+ExternalFunctionPattern	359	line	L546
+ExternalFunctionPattern	359	element	B619
+ExternalFunctionPattern	359	loc	19506:255:0
+ExternalFunctionPattern	359	contract	RewardWallet
+ExternalFunctionPattern	359	comment	Function externalCall should be set external.

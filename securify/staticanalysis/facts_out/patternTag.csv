@@ -1,0 +1,112 @@
+PASSPattern	id	PASSPattern
+PASSPattern	name	Taint Analysis for PASS Project
+PASSPattern	description	A sink call is considered Tainted if its argument depends on msg.value or msg.sender or its execution depends on msg.value or msg.sender
+PASSPattern	severity	critical
+LockedEtherPattern	id	LockedEtherPattern
+LockedEtherPattern	name	Locked Ether
+LockedEtherPattern	description	Contracts that may receive ether must also allow users to extract the deposited ether from the contract.
+LockedEtherPattern	severity	medium
+DAOPattern	id	DAOPattern
+DAOPattern	name	Gas-dependent Reentrancy
+DAOPattern	description	Calls into external contracts that receive all remaining gas and are followed by state changes may be reentrant.
+DAOPattern	severity	critical
+DAOConstantGasPattern	id	DAOConstantGasPattern
+DAOConstantGasPattern	name	Reentrancy with constant gas
+DAOConstantGasPattern	description	Ether transfers (such as send and transfer) that are followed by state changes may be reentrant.
+DAOConstantGasPattern	severity	critical
+MissingInputValidationPattern	id	MissingInputValidationPattern
+MissingInputValidationPattern	name	Missing Input Validation
+MissingInputValidationPattern	description	Method arguments must be sanitized before they are used in computations.
+MissingInputValidationPattern	severity	medium
+RepeatedCallPattern	id	RepeatedCallPattern
+RepeatedCallPattern	name	Repeated Call to Untrusted Contract
+RepeatedCallPattern	description	Repeated call to an untrusted contract may result in different values
+RepeatedCallPattern	severity	high
+TODAmountPattern	id	TODAmountPattern
+TODAmountPattern	name	Transaction Order Affects Ether Amount
+TODAmountPattern	description	The amount of ether transferred must not be influenced by other transactions.
+TODAmountPattern	severity	critical
+TODReceiverPattern	id	TODReceiverPattern
+TODReceiverPattern	name	Transaction Order Affects Ether Receiver
+TODReceiverPattern	description	The receiver of ether transfers must not be influenced by other transactions.
+TODReceiverPattern	severity	critical
+TODTransferPattern	id	TODTransferPattern
+TODTransferPattern	name	Transaction Order Affects Execution of Ether Transfer
+TODTransferPattern	description	Ether transfers whose execution can be manipulated by other transactions must be inspected for unintended behavior.
+TODTransferPattern	severity	critical
+UnhandledExceptionPattern	id	UnhandledExceptionPattern
+UnhandledExceptionPattern	name	Unhandled Exception
+UnhandledExceptionPattern	description	The return value of statements that may return error values must be explicitly checked.
+UnhandledExceptionPattern	severity	high
+UnrestrictedEtherFlowPattern	id	UnrestrictedEtherFlowPattern
+UnrestrictedEtherFlowPattern	name	Unrestricted Ether Flow
+UnrestrictedEtherFlowPattern	description	The execution of ether flows should be restricted to an authorized set of users.
+UnrestrictedEtherFlowPattern	severity	critical
+UnrestrictedWritePattern	id	UnrestrictedWritePattern
+UnrestrictedWritePattern	name	Unrestricted write to storage
+UnrestrictedWritePattern	description	Contract fields that can be modified by any user must be inspected.
+UnrestrictedWritePattern	severity	critical
+UnrestrictedSelfdestructPattern	id	UnrestrictedSelfdestructPattern
+UnrestrictedSelfdestructPattern	name	Unrestricted call to selfdestruct
+UnrestrictedSelfdestructPattern	description	Calls to selfdestruct that can be triggered by any user must be inspected.
+UnrestrictedSelfdestructPattern	severity	critical
+UnrestrictedDelegateCallPattern	id	UnrestrictedDelegateCallPattern
+UnrestrictedDelegateCallPattern	name	Delegatecall or callcode to unrestricted address
+UnrestrictedDelegateCallPattern	description	The address of a delegatecall or callcode must be approved by the contract owner.
+UnrestrictedDelegateCallPattern	severity	high
+MulAfterDivPattern	id	MulAfterDivPattern
+MulAfterDivPattern	name	Multiplication after division
+MulAfterDivPattern	description	Information might be lost due to division before multiplication
+MulAfterDivPattern	severity	medium
+ShadowedStateVariablePattern	id	ShadowedStateVariablePattern
+ShadowedStateVariablePattern	name	State Variable Shadowing
+ShadowedStateVariablePattern	description	State variables in inherited contract should not be named identically to inherited variables
+ShadowedStateVariablePattern	severity	high
+UnusedStateVariablePattern	id	UnusedStateVariablePattern
+UnusedStateVariablePattern	name	Unused State Variable
+UnusedStateVariablePattern	description	Unused state variables should be removed.
+UnusedStateVariablePattern	severity	info
+UninitializedStateVariablePattern	id	UninitializedStateVariablePattern
+UninitializedStateVariablePattern	name	Uninitialized State Variable
+UninitializedStateVariablePattern	description	State variables should be explicitly initialized.
+UninitializedStateVariablePattern	severity	high
+CallInLoopPattern	id	CallInLoopPattern
+CallInLoopPattern	name	External call in loop
+CallInLoopPattern	description	If a single call in the loop fails or revers, it will cause all other calls to fail as well.
+CallInLoopPattern	severity	high
+TxOriginPattern	id	TxOriginPattern
+TxOriginPattern	name	Possibly unsafe usage of tx-origin
+TxOriginPattern	description	The return value of statements that may return error values must be explicitly checked.
+TxOriginPattern	severity	high
+LowLevelCallsPattern	id	LowLevelCallsPattern
+LowLevelCallsPattern	name	Low Level Calls
+LowLevelCallsPattern	description	Usage of <address>.call should be avoided
+LowLevelCallsPattern	severity	info
+IncorrectInequalityPattern	id	IncorrectInequalityPattern
+IncorrectInequalityPattern	name	Dangerous Strict Equalities
+IncorrectInequalityPattern	description	Strict equalities that use account's balance, timestamps and block numbers should be avoided
+IncorrectInequalityPattern	severity	medium
+UnusedReturnPattern	id	UnusedReturnPattern
+UnusedReturnPattern	name	Unused Return Pattern
+UnusedReturnPattern	description	The value returned by an external function call is never used
+UnusedReturnPattern	severity	medium
+TimestampPattern	id	TimestampPattern
+TimestampPattern	name	Usage of block timestamp
+TimestampPattern	description	Returned value relies on block timestamp.
+TimestampPattern	severity	low
+ConstableStatesPattern	id	ConstableStatesPattern
+ConstableStatesPattern	name	Constable State Variables
+ConstableStatesPattern	description	State variables that do not change should be declared as constants.
+ConstableStatesPattern	severity	info
+ExternalFunctionPattern	id	ExternalFunctionPattern
+ExternalFunctionPattern	name	External Calls of Functions
+ExternalFunctionPattern	description	A public function that is never called within the contract should be marked as external
+ExternalFunctionPattern	severity	low
+ReentrancyNoETHPattern	id	ReentrancyNoETHPattern
+ReentrancyNoETHPattern	name	No-Ether-Involved Reentrancy
+ReentrancyNoETHPattern	description	Reentrancy that involves no ether
+ReentrancyNoETHPattern	severity	medium
+ReentrancyBenignPattern	id	ReentrancyBenignPattern
+ReentrancyBenignPattern	name	Benign Reentrancy
+ReentrancyBenignPattern	description	Reentrancy is equivalent with two consecutive calls of the function
+ReentrancyBenignPattern	severity	low
